@@ -1,12 +1,11 @@
-import Player from "../components/Player.jsx";
 
-function App() {
+function Player() {
   return (
     <>
-      <Player />
-      <div id="challenges"></div>
+      <div id="challenges">
+      </div>
     </>
   );
 }
 
-export default App;
+export default Player;
